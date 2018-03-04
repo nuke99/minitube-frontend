@@ -1,0 +1,16 @@
+.navbar,
+.navbar-default {
+    background-image: linear-gradient(to bottom,#c0392b 0,#c0392b 100%) !important; 
+    color : white;
+}
+.navbar-brand {
+    color : white !important;
+}
+
+
+.navItem:hover {
+    background-color: #00000014 !important;
+}
+.navItem a { 
+    color : white !important;
+}
