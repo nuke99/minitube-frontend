@@ -32,7 +32,7 @@ class Home extends Component {
 
     render() {
         
-        let videos = [1,2,3,4,5].map(x => {
+        let videos = [1,2,3,4,5,6].map(x => {
             return <Thumbnail key={x} />
         });
         console.log('videos',videos);
